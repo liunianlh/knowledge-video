@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识科普视频导演"
+  short_description: "制作统一视觉、动效丰富、首尾完整的科普视频、封面与文案"
+  default_prompt: "用 $knowledge-video 将这个主题制作成有依据、无配音、中文字幕叙事的 Remotion 科普短片，沿用统一系列视觉，完成自然收尾、3:4 竖版配套封面、发布文案和 MP4 验收。"
