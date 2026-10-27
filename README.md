@@ -57,10 +57,6 @@
 <a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/zheng-he.mp4">下载 MP4</a>
 </td>
 </tr>
-<tr>
-<td width="33%" valign="top" align="center">
-<a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/pregnancy-tightening.mp4"><img src="examples/covers/pregnancy-tightening.png" width="220" alt="肚子一阵阵发紧，是不是快生了？"></a>
-</tr>
 </table>
 
 案例参数来自本次对最终 MP4 的 ffprobe 回读；详细时长、文件大小与 SHA-256 见 [案例清单](examples/catalog.json)。多数案例沿用深蓝细线图解，孕产案例展示按受众调整为温暖视觉的做法；画幅、片长和音乐均按具体任务确定。
