@@ -14,20 +14,6 @@
     "sha256": "88378eedf5d1d4434dd28f749bd97f4bd511d833b1814e6dd6ead73d65ea4054"
   },
   {
-    "slug": "schrodinger-cat",
-    "title": "薛定谔的猫，究竟在问什么？",
-    "description": "从箱子里的思想实验讲起，用图解说明量子叠加、测量与退相干的解释边界。",
-    "duration": 150.016,
-    "width": 1920,
-    "height": 1080,
-    "fps": 30.0,
-    "bytes": 13832805,
-    "version": "V1",
-    "video": "https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/schrodinger-cat.mp4",
-    "cover": "covers/schrodinger-cat.png",
-    "sha256": "3a1c83d269eda5ead8ebcf12cc48e14734046d4cdbd917400e3b1a1a544ed302"
-  },
-  {
     "slug": "speechless",
     "title": "吵架时说不出话，为什么过后才反应过来？",
     "description": "围绕压力、语言组织和事后思考空间，解释争执时卡壳的一种可能机制。",
@@ -40,20 +26,6 @@
     "video": "https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/speechless.mp4",
     "cover": "covers/speechless.png",
     "sha256": "6f88a61346459587ce7d9295e993cafd091fda53d066193112107d0852841a3e"
-  },
-  {
-    "slug": "anticipation",
-    "title": "为什么等了很久的那一天，反而没那么开心？",
-    "description": "用期待与现实的对照，解释被忽略的日常、逐渐发生的适应与快乐评判压力。",
-    "duration": 102.016,
-    "width": 1920,
-    "height": 1080,
-    "fps": 30.0,
-    "bytes": 11731841,
-    "version": "V1",
-    "video": "https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/anticipation.mp4",
-    "cover": "covers/anticipation.png",
-    "sha256": "92b038764cee566f3f4c05cd61431bde677621cbf9125627ab5c6ec9b4324eb8"
   },
   {
     "slug": "after-anger",

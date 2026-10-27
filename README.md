@@ -8,7 +8,7 @@
 
 ## 已完成的视频案例
 
-以下为此前实际制作并已导出的 9 部成片，覆盖 AI、科学、心理、历史与孕产主题。每个主题选用当前已有的最新成片；点击封面或“下载 MP4”获取完整视频。视频存放在 Releases，安装 Skill 无需下载这些成片。
+以下为此前实际制作并已导出的 7 部成片，覆盖 AI、心理、历史与孕产主题。每个主题选用当前已有的最新成片；点击封面或“下载 MP4”获取完整视频。视频存放在 Releases，安装 Skill 无需下载这些成片。
 
 <table>
 <tr>
@@ -20,27 +20,11 @@
 <a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/ai-workflow.mp4">下载 MP4</a>
 </td>
 <td width="33%" valign="top" align="center">
-<a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/schrodinger-cat.mp4"><img src="examples/covers/schrodinger-cat.png" width="220" alt="薛定谔的猫，究竟在问什么？"></a><br>
-<strong>薛定谔的猫，究竟在问什么？</strong><br>
-1920 × 1080 · 30 FPS · 2:30 · V1<br>
-<p>从箱子里的思想实验讲起，用图解说明量子叠加、测量与退相干的解释边界。</p>
-<a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/schrodinger-cat.mp4">下载 MP4</a>
-</td>
-<td width="33%" valign="top" align="center">
 <a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/speechless.mp4"><img src="examples/covers/speechless.png" width="220" alt="吵架时说不出话，为什么过后才反应过来？"></a><br>
 <strong>吵架时说不出话，为什么过后才反应过来？</strong><br>
 1920 × 1080 · 30 FPS · 2:20 · V1<br>
 <p>围绕压力、语言组织和事后思考空间，解释争执时卡壳的一种可能机制。</p>
 <a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/speechless.mp4">下载 MP4</a>
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top" align="center">
-<a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/anticipation.mp4"><img src="examples/covers/anticipation.png" width="220" alt="为什么等了很久的那一天，反而没那么开心？"></a><br>
-<strong>为什么等了很久的那一天，反而没那么开心？</strong><br>
-1920 × 1080 · 30 FPS · 1:42 · V1<br>
-<p>用期待与现实的对照，解释被忽略的日常、逐渐发生的适应与快乐评判压力。</p>
-<a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/anticipation.mp4">下载 MP4</a>
 </td>
 <td width="33%" valign="top" align="center">
 <a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/after-anger.mp4"><img src="examples/covers/after-anger.png" width="220" alt="为什么发完脾气，才想起好好说话？"></a><br>
@@ -49,6 +33,8 @@
 <p>用同一组人物与对话贯穿首尾，把情绪变化、暂停与重新表达做成可见的图解。</p>
 <a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/after-anger.mp4">下载 MP4</a>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top" align="center">
 <a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/rumination.mp4"><img src="examples/covers/rumination.png" width="220" alt="为什么别人的一句话，能让你反复想一整天？"></a><br>
 <strong>为什么别人的一句话，能让你反复想一整天？</strong><br>
@@ -56,8 +42,6 @@
 <p>用回声、循环轨道和分层卡片呈现反刍思维，区分原话、推测与具体行动。</p>
 <a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/rumination.mp4">下载 MP4</a>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top" align="center">
 <a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/zhang-qian.mp4"><img src="examples/covers/zhang-qian.png" width="220" alt="张骞出使十三年，为什么归来仍被授官？"></a><br>
 <strong>张骞出使十三年，为什么归来仍被授官？</strong><br>
@@ -72,6 +56,8 @@
 <p>在真实海岸线示意图上展开七次远航的合并航迹，说明港口、船队与距离的叙述边界。</p>
 <a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/zheng-he.mp4">下载 MP4</a>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top" align="center">
 <a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/pregnancy-tightening.mp4"><img src="examples/covers/pregnancy-tightening.png" width="220" alt="肚子一阵阵发紧，是不是快生了？"></a><br>
 <strong>肚子一阵阵发紧，是不是快生了？</strong><br>
@@ -142,7 +128,7 @@ knowledge-video/
 │   ├── delivery-and-revision.md           # 成片验收与修改边界
 │   └── case-lessons.md                    # 既有案例的经验及适用范围
 └── examples/
-    ├── catalog.json                      # 9 部案例的参数、链接与校验值
+    ├── catalog.json                      # 7 部案例的参数、链接与校验值
     └── covers/                           # 对应案例的实际封面
 ```
 
