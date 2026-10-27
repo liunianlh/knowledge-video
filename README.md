@@ -59,12 +59,7 @@
 </tr>
 <tr>
 <td width="33%" valign="top" align="center">
-<a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/pregnancy-tightening.mp4"><img src="examples/covers/pregnancy-tightening.png" width="220" alt="肚子一阵阵发紧，是不是快生了？"></a><br>
-<strong>肚子一阵阵发紧，是不是快生了？</strong><br>
-1080 × 1440 · 30 FPS · 2:16 · 温暖版<br>
-<p>以温暖人物场景说明常见宫缩线索、需要联系产科的信号与记录方法，保留就医评估边界。</p>
-<a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/pregnancy-tightening.mp4">下载 MP4</a>
-</td>
+<a href="https://github.com/liunianlh/knowledge-video/releases/download/v1.0.0/pregnancy-tightening.mp4"><img src="examples/covers/pregnancy-tightening.png" width="220" alt="肚子一阵阵发紧，是不是快生了？"></a>
 </tr>
 </table>
 
